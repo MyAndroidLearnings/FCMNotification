@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "176741197661",
+    "firebase_url": "https://fcmnotification-10eb8.firebaseio.com",
+    "project_id": "fcmnotification-10eb8",
+    "storage_bucket": "fcmnotification-10eb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176741197661:android:05a1a49922169552d6aab4",
+        "android_client_info": {
+          "package_name": "com.example.fcmnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176741197661-k3cfmao5ldub6c0aeivmdq5p2e59cp5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fcmnotification",
+            "certificate_hash": "4eb86f3821c83fd5f2f81cbdda76a0fe7b6eb70d"
+          }
+        },
+        {
+          "client_id": "176741197661-kc2edjos0rrc232bk8cuic4nf6fhtjs4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzzv2FSYcHNqNFEGb64nA3byGYbDYQvnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176741197661-kc2edjos0rrc232bk8cuic4nf6fhtjs4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
